@@ -36,11 +36,7 @@
            <artifactId>cucumber-core</artifactId>
            <version>1.2.6</version>
        </dependency>
-       <!--  <dependency>
-             <groupId>org.apache.httpcomponents</groupId>
-             <artifactId>httpcore</artifactId>
-             <version>4.3.3</version>
-         </dependency>-->
+      
        <dependency>
            <groupId>org.junit</groupId>
            <artifactId>junit5-engine</artifactId>
